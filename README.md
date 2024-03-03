@@ -1,3 +1,4 @@
+![Cover Image](https://github.com/mat-tie/test/blob/88ecae2c0f01b78424d1be222e0417d92fe2c451/Project%20Cover%20Image)
 # Book Rating Prediction Model
 In this project, we implemented the use of a machine-learning model in order to predict book ratings. The steps were as follows:
 * Importing & Cleaning the Dataset
