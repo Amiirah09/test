@@ -46,6 +46,8 @@ We chose a regression model type to predict the average rating. We tested out fo
 * Random Forest
 * AdaBoost & Decision Tree
 
+## Outcome
+The Random Forest model outperformed all other models, with its predictions being relatively close to the actual values on average. Notably, the model returned a consistent R2 score of around 0.8.
 # Getting Started
 
 ## Software Prerequisites
