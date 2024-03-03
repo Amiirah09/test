@@ -58,5 +58,5 @@ The Random Forest model outperformed all other models, with its predictions bein
 ## Software Installation
 * Open Anaconda Prompt
 * Type and execute <code>conda create --name myenv python=3.10</code>
-* Type and execute <code>requirements.txt</code> to create an environment from the requirements.txt file.
+* Type and execute <code>pip install -r requirements.txt</code> to create an environment from the requirements.txt file.
 * Open the Jupyter notebook <i>ML_final</i>
